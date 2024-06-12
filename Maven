@@ -18,7 +18,10 @@ Java --verson
 
 Now install setup maven:
 sudo apt install maven
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
 # to check maven version
 mvn --version
 
 create a simple project and run maven
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
