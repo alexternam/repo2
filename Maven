@@ -18,5 +18,7 @@ Java --verson
 
 Now install setup maven:
 sudo apt install maven
+# to check maven version
+mvn --version
 
 create a simple project and run maven
