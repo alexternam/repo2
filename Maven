@@ -1,0 +1,22 @@
+installing java and maven building and testing maven:
+first install java,
+sudo apt update
+
+
+
+
+Step 1: Download the jdk Binaries
+https://download.java.net
+
+
+Step 2 setiing up java_home and the path enviroment variables
+
+Step 3 Verify the java installations
+Java --verson
+
+
+
+Now install setup maven:
+sudo apt install maven
+
+create a simple project and run maven
