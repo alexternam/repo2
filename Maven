@@ -9,7 +9,7 @@ Step 1: Download the jdk Binaries
 https://download.java.net
 
 
-Step 2 setiing up java_home and the path enviroment variables
+Step 2 setting up java_home and the path enviroment variables
 
 Step 3 Verify the java installations
 Java --verson
@@ -20,7 +20,7 @@ Now install setup maven:
 sudo apt install maven
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 
-# to check maven version
+to check maven version
 mvn --version
 
 create a simple project and run maven
